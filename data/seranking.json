@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-08-24",
+  "updated_at": "2026-08-31",
   "source": "SE Ranking API (自动)",
   "audit_id": 700348552,
-  "health_score": 84,
-  "total_issues": 460,
-  "errors": 33,
-  "warnings": 61,
-  "notices": 366,
-  "pages_crawled": 133,
-  "domain_expiry": "2026-08-15",
+  "health_score": 79,
+  "total_issues": 760,
+  "errors": 74,
+  "warnings": 117,
+  "notices": 569,
+  "pages_crawled": 181,
+  "domain_expiry": "2027-08-15",
   "domain_trust": 13,
-  "backlinks": "45",
+  "backlinks": "44",
   "referring_domains": "31",
   "google_index": "148",
   "issues": {
     "broken_4xx": {
-      "count": 1,
+      "count": 12,
       "label": "4XX 断链",
       "severity": "严重",
-      "description": "1个页面返回404错误",
+      "description": "12个页面返回404错误",
       "effort": "1小时",
       "fix": "找到含 _wp_link_placeholder 的博客文章 → 修复或删除断链"
     },
@@ -31,42 +31,42 @@
       "fix": "更新内部链接直接指向最终URL"
     },
     "duplicate_titles": {
-      "count": 32,
+      "count": 60,
       "label": "重复页面标题",
       "severity": "高",
-      "description": "32个页面标题重复（EN/ZH版本相同）",
+      "description": "60个页面标题重复（EN/ZH版本相同）",
       "effort": "2小时",
       "fix": "TranslatePress → 逐页翻译 meta title"
     },
     "duplicate_descriptions": {
-      "count": 34,
+      "count": 70,
       "label": "重复 Meta Description",
       "severity": "高",
-      "description": "34个页面描述重复",
+      "description": "70个页面描述重复",
       "effort": "2小时",
       "fix": "TranslatePress → 逐页翻译 meta description"
     },
     "duplicate_h1": {
-      "count": 20,
+      "count": 48,
       "label": "重复 H1 标签",
       "severity": "中",
-      "description": "20个页面 H1 与中文版相同",
+      "description": "48个页面 H1 与中文版相同",
       "effort": "1小时",
       "fix": "TranslatePress → 翻译各页面 H1 内容"
     },
     "same_title_h1": {
-      "count": 67,
+      "count": 93,
       "label": "Title 与 H1 完全相同",
       "severity": "低",
-      "description": "67个页面 Title 和 H1 完全一样，浪费优化空间",
+      "description": "93个页面 Title 和 H1 完全一样，浪费优化空间",
       "effort": "持续",
       "fix": "将 Title 改为包含关键词的完整句子，H1 保持简短"
     },
     "slow_pages": {
-      "count": 31,
+      "count": 80,
       "label": "页面加载速度慢",
       "severity": "高",
-      "description": "31个页面加载速度慢",
+      "description": "80个页面加载速度慢",
       "effort": "持续",
       "fix": "Elementor → Improved Asset Loading；Breeze → JS defer + CSS 合并"
     },
@@ -79,7 +79,7 @@
       "fix": "更新内部链接直接指向最终目标URL"
     },
     "sitemap_missing": {
-      "count": 1,
+      "count": 0,
       "label": "XML Sitemap 缺失",
       "severity": "严重",
       "description": "XML sitemap 缺失，影响 Google 爬取效率",
