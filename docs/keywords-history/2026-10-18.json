@@ -1,0 +1,245 @@
+{
+  "updated_at": "2026-10-18T04:34:13.242217Z",
+  "date_from": "2026-10-11",
+  "date_to": "2026-10-18",
+  "total_keywords": 32,
+  "avg_position": 21.8,
+  "top10_count": 12,
+  "movers_up": [
+    {
+      "keyword": "fitness setia alam",
+      "position": 6,
+      "position_7d_ago": 18,
+      "delta": 12,
+      "volume": 140,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "beginner gym shah alam",
+      "position": 63,
+      "position_7d_ago": 74,
+      "delta": 11,
+      "volume": 0,
+      "landing_page": "https://iconfit.asia/fitness-classes/"
+    },
+    {
+      "keyword": "iconfit",
+      "position": 1,
+      "position_7d_ago": 6,
+      "delta": 5,
+      "volume": 30,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "iconfit gym",
+      "position": 2,
+      "position_7d_ago": 6,
+      "delta": 4,
+      "volume": 10,
+      "landing_page": "https://iconfit.asia/zh/"
+    },
+    {
+      "keyword": "zumba or dance fitness",
+      "position": 23,
+      "position_7d_ago": 27,
+      "delta": 4,
+      "volume": 0,
+      "landing_page": "https://iconfit.asia/zumba-classes-vs-dance-fitness-which-is-better-for-women/"
+    },
+    {
+      "keyword": "toning classes",
+      "position": 30,
+      "position_7d_ago": 33,
+      "delta": 3,
+      "volume": 10,
+      "landing_page": "https://iconfit.asia/zumbatoning-class/"
+    },
+    {
+      "keyword": "icon fit gym",
+      "position": 6,
+      "position_7d_ago": 9,
+      "delta": 3,
+      "volume": 10,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "setia alam fitness",
+      "position": 15,
+      "position_7d_ago": 18,
+      "delta": 3,
+      "volume": 110,
+      "landing_page": "https://iconfit.asia/"
+    }
+  ],
+  "movers_down": [
+    {
+      "keyword": "exercise classes for beginners",
+      "position": 72,
+      "position_7d_ago": 37,
+      "delta": -35,
+      "volume": 10,
+      "landing_page": "https://iconfit.asia/resources/"
+    },
+    {
+      "keyword": "ladies gym setia alam",
+      "position": 31,
+      "position_7d_ago": 19,
+      "delta": -12,
+      "volume": 40,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "beginner fitness classes",
+      "position": 56,
+      "position_7d_ago": 47,
+      "delta": -9,
+      "volume": 10,
+      "landing_page": "https://iconfit.asia/resources/"
+    },
+    {
+      "keyword": "local women gym setia alam",
+      "position": 32,
+      "position_7d_ago": 28,
+      "delta": -4,
+      "volume": 0,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "setia alam gym",
+      "position": 24,
+      "position_7d_ago": 20,
+      "delta": -4,
+      "volume": 1300,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "iconfit near me",
+      "position": 13,
+      "position_7d_ago": 10,
+      "delta": -3,
+      "volume": 10,
+      "landing_page": "https://iconfit.asia/about-us/"
+    },
+    {
+      "keyword": "gym at setia alam",
+      "position": 21,
+      "position_7d_ago": 18,
+      "delta": -3,
+      "volume": 1300,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "group fitness",
+      "position": 47,
+      "position_7d_ago": 45,
+      "delta": -2,
+      "volume": 20,
+      "landing_page": "https://iconfit.asia/"
+    }
+  ],
+  "opportunities": [
+    {
+      "keyword": "setia alam gym",
+      "position": 24,
+      "position_7d_ago": 20,
+      "delta": -4,
+      "volume": 1300,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "gym in setia alam",
+      "position": 22,
+      "position_7d_ago": 24,
+      "delta": 2,
+      "volume": 1300,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "gym at setia alam",
+      "position": 21,
+      "position_7d_ago": 18,
+      "delta": -3,
+      "volume": 1300,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "setia alam fitness",
+      "position": 15,
+      "position_7d_ago": 18,
+      "delta": 3,
+      "volume": 110,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "gym near setia alam",
+      "position": 25,
+      "position_7d_ago": 26,
+      "delta": 1,
+      "volume": 70,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "fitness shah alam",
+      "position": 28,
+      "position_7d_ago": 27,
+      "delta": -1,
+      "volume": 50,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "toning classes",
+      "position": 30,
+      "position_7d_ago": 33,
+      "delta": 3,
+      "volume": 10,
+      "landing_page": "https://iconfit.asia/zumbatoning-class/"
+    },
+    {
+      "keyword": "iconfit near me",
+      "position": 13,
+      "position_7d_ago": 10,
+      "delta": -3,
+      "volume": 10,
+      "landing_page": "https://iconfit.asia/about-us/"
+    }
+  ],
+  "selected": {
+    "total": 4,
+    "top10_count": 0,
+    "avg_position": 33.2,
+    "keywords": [
+      {
+        "keyword": "setia alam fitness",
+        "position": 15,
+        "position_7d_ago": 18,
+        "delta": 3,
+        "volume": 110,
+        "landing_page": "https://iconfit.asia/"
+      },
+      {
+        "keyword": "gym in setia alam",
+        "position": 22,
+        "position_7d_ago": 24,
+        "delta": 2,
+        "volume": 1300,
+        "landing_page": "https://iconfit.asia/"
+      },
+      {
+        "keyword": "setia alam gym",
+        "position": 24,
+        "position_7d_ago": 20,
+        "delta": -4,
+        "volume": 1300,
+        "landing_page": "https://iconfit.asia/"
+      },
+      {
+        "keyword": "exercise classes for beginners",
+        "position": 72,
+        "position_7d_ago": 37,
+        "delta": -35,
+        "volume": 10,
+        "landing_page": "https://iconfit.asia/resources/"
+      }
+    ]
+  }
+}
