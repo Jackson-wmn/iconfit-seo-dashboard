@@ -1,0 +1,237 @@
+{
+  "updated_at": "2026-11-04T06:22:37.696239Z",
+  "date_from": "2026-10-28",
+  "date_to": "2026-11-04",
+  "total_keywords": 42,
+  "avg_position": 31.1,
+  "top10_count": 13,
+  "movers_up": [
+    {
+      "keyword": "fitness setia alam",
+      "position": 25,
+      "position_7d_ago": 83,
+      "delta": 58,
+      "volume": 140,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "ladies gym setia alam",
+      "position": 18,
+      "position_7d_ago": 36,
+      "delta": 18,
+      "volume": 40,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "beginner workout malaysia",
+      "position": 17,
+      "position_7d_ago": 32,
+      "delta": 15,
+      "volume": 0,
+      "landing_page": "https://iconfit.asia/the-complete-beginners-fitness-guide-in-malaysia-2025/"
+    },
+    {
+      "keyword": "icon fit",
+      "position": 5,
+      "position_7d_ago": 17,
+      "delta": 12,
+      "volume": 40,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "is full body workout good for beginners",
+      "position": 36,
+      "position_7d_ago": 47,
+      "delta": 11,
+      "volume": 10,
+      "landing_page": "https://iconfit.asia/zh/is-a-full-body-workout-good-beginners/"
+    },
+    {
+      "keyword": "group fitness",
+      "position": 49,
+      "position_7d_ago": 56,
+      "delta": 7,
+      "volume": 20,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "fittness club",
+      "position": 38,
+      "position_7d_ago": 44,
+      "delta": 6,
+      "volume": 140,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "iconfit malaysia",
+      "position": 2,
+      "position_7d_ago": 8,
+      "delta": 6,
+      "volume": 10,
+      "landing_page": "https://iconfit.asia/"
+    }
+  ],
+  "movers_down": [
+    {
+      "keyword": "setia alam fitness",
+      "position": 80,
+      "position_7d_ago": 17,
+      "delta": -63,
+      "volume": 110,
+      "landing_page": "https://iconfit.asia/contact-us/"
+    },
+    {
+      "keyword": "group gym classes near me",
+      "position": 82,
+      "position_7d_ago": 46,
+      "delta": -36,
+      "volume": 10,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "gym shah alam",
+      "position": 65,
+      "position_7d_ago": 35,
+      "delta": -30,
+      "volume": 30,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "icon gym",
+      "position": 96,
+      "position_7d_ago": 79,
+      "delta": -17,
+      "volume": 20,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "gym near setia alam",
+      "position": 29,
+      "position_7d_ago": 14,
+      "delta": -15,
+      "volume": 70,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "beginner fitness classes",
+      "position": 79,
+      "position_7d_ago": 68,
+      "delta": -11,
+      "volume": 10,
+      "landing_page": "https://iconfit.asia/resources/"
+    },
+    {
+      "keyword": "small group fitness",
+      "position": 68,
+      "position_7d_ago": 59,
+      "delta": -9,
+      "volume": 10,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "group workout classes",
+      "position": 72,
+      "position_7d_ago": 66,
+      "delta": -6,
+      "volume": 30,
+      "landing_page": "https://iconfit.asia/"
+    }
+  ],
+  "opportunities": [
+    {
+      "keyword": "setia alam gym",
+      "position": 14,
+      "position_7d_ago": 13,
+      "delta": -1,
+      "volume": 1300,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "gym in setia alam",
+      "position": 17,
+      "position_7d_ago": 14,
+      "delta": -3,
+      "volume": 1300,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "gym at setia alam",
+      "position": 15,
+      "position_7d_ago": 15,
+      "delta": 0,
+      "volume": 1300,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "fitness setia alam",
+      "position": 25,
+      "position_7d_ago": 83,
+      "delta": 58,
+      "volume": 140,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "gym near setia alam",
+      "position": 29,
+      "position_7d_ago": 14,
+      "delta": -15,
+      "volume": 70,
+      "landing_page": "https://iconfit.asia/"
+    },
+    {
+      "keyword": "ladies gym setia alam",
+      "position": 18,
+      "position_7d_ago": 36,
+      "delta": 18,
+      "volume": 40,
+      "landing_page": "https://iconfit.asia/"
+    }
+  ],
+  "selected": {
+    "total": 5,
+    "top10_count": 0,
+    "avg_position": 39.6,
+    "keywords": [
+      {
+        "keyword": "setia alam gym",
+        "position": 14,
+        "position_7d_ago": 13,
+        "delta": -1,
+        "volume": 1300,
+        "landing_page": "https://iconfit.asia/"
+      },
+      {
+        "keyword": "gym in setia alam",
+        "position": 17,
+        "position_7d_ago": 14,
+        "delta": -3,
+        "volume": 1300,
+        "landing_page": "https://iconfit.asia/"
+      },
+      {
+        "keyword": "beginner workout malaysia",
+        "position": 18,
+        "position_7d_ago": 13,
+        "delta": -5,
+        "volume": 0,
+        "landing_page": "https://iconfit.asia/the-complete-beginners-fitness-guide-in-malaysia-2025/"
+      },
+      {
+        "keyword": "exercise classes for beginners",
+        "position": 69,
+        "position_7d_ago": 69,
+        "delta": 0,
+        "volume": 10,
+        "landing_page": "https://iconfit.asia/resources/"
+      },
+      {
+        "keyword": "setia alam fitness",
+        "position": 80,
+        "position_7d_ago": 17,
+        "delta": -63,
+        "volume": 110,
+        "landing_page": "https://iconfit.asia/contact-us/"
+      }
+    ]
+  }
+}
